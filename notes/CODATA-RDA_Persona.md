@@ -1,6 +1,7 @@
-CODATA-RDA participant persona
+# Persona description
+## CODATA-RDA participant persona
 
-Career stage:
+### Career stage
 Early Career Researchers (masters students, doctoral candidates, post-docs and
 young or early career academics), also useful for (data) librarians and other
 research support staff, such as those who envisage a career as data steward
@@ -8,7 +9,7 @@ or data analysts.
 
 The data skills taught are useful for continuing professional development.
 
-Issues/ challenges:
+### Issues/ challenges
 
 - Needs to learn how to make a project findable, accessible, interoperable,
  and re-usable
@@ -28,5 +29,6 @@ computational resources
 
 
 
-References:
+## References
+
 https://www.force11.org/fairprinciples
