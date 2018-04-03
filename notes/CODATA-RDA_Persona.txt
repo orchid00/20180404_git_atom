@@ -9,14 +9,24 @@ or data analysts.
 The data skills taught are useful for continuing professional development.
 
 Issues/ challenges:
-- Needs to know what is an efficient project structure
-- Needs to learn how to manage multiple projects
-- Needs to have a location to save public and private projects
+
 - Needs to learn how to make a project findable, accessible, interoperable,
  and re-usable
-- Needs to have control of changes in the project
 - Needs tools for data analysis
-- Needs to know how to do analysis and report findings
+    - Needs to know what is an efficient project structure
+    - Need tools to read in and select data
+    - Need tools for visualisation
+    - Needs to know how to report findings
+- Need to understand how to scale from own laptop/desktop to larger
+computational resources
+- Need to understand what Open Science is and its consequences
+- Need to understand modern tools necessary for authorship
+- Need to understand how to manage one’s own data
+- Needs to learn how to manage multiple projects
+    - Needs to have a location to save public and private projects
+    - Needs to have control of changes in the project
+
+
 
 References:
 https://www.force11.org/fairprinciples
