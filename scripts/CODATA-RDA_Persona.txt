@@ -17,3 +17,6 @@ Issues/ challenges:
 - Needs to have control of changes in the project
 - Needs tools for data analysis
 - Needs to know how to do analysis and report findings
+
+References:
+https://www.force11.org/fairprinciples
