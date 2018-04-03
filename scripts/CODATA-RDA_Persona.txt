@@ -1,0 +1,19 @@
+CODATA-RDA participant persona
+
+Career stage:
+Early Career Researchers (masters students, doctoral candidates, post-docs and
+young or early career academics), also useful for (data) librarians and other
+research support staff, such as those who envisage a career as data steward
+or data analysts.
+
+The data skills taught are useful for continuing professional development.
+
+Issues/ challenges:
+- Needs to know what is an efficient project structure
+- Needs to learn how to manage multiple projects
+- Needs to have a location to save public and private projects
+- Needs to learn how to make a project findable, accessible, interoperable,
+ and re-usable
+- Needs to have control of changes in the project
+- Needs tools for data analysis
+- Needs to know how to do analysis and report findings
