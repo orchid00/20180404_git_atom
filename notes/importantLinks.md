@@ -4,6 +4,8 @@
 frameworks to ELIXIR Training](https://www.dtls.nl/wp-content/uploads/2018/03/Full-Programme-120318.pdf)
 - [Eventbrite](https://www.eventbrite.co.uk/e/applying-bioinformatics-and-data-science-competency-frameworks-to-elixir-training-registration-43087835877)
 
+- [FAIR survey and results ANDS](https://zenodo.org/record/1208136#.WsOyY9a-l5F)
+
 Location
 Station Amsterdam Science Park
 Amsterdam Science Park 125
