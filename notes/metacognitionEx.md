@@ -21,10 +21,10 @@ Topics covered in the teaching/training (what the trainers wants to focus on)
 
 ### Learning Outcomes (KSA what the learner can demonstrate)
 Focused on the learner
-- To understand the power of a function
+- Explain the power of a function
 - Be able to explain why loops in R have been replaced with functions
 - Work with a small reproducible example
-- Be exposed to different functions of the package R and explain the differences
+- Use different functions of the package `purrr` and explain the differences
 
 ### Assessment
 - What kind of questions come out from the training
@@ -51,3 +51,12 @@ Ability - Be able to translate a loop with a map_ function
 - Encode information - see, hear, experience
 - Process with **practice** leads to associations with our long term memory
 - Store - After sufficient processing
+
+### Bloom's Taxonomy applied to Learning
+Six levels (from the base to top) 1956
+1. Knowledge - Remembering by Reiterating
+2. Comprehension - Understand by Summarising
+3. Application - Illustrate by extrapolation
+4. Analysis - Predict - connect parts of a concept
+5. Synthesis - Create do something new (2001 - Evaluating)
+6. Evaluation - Assessment (2001 - Creating)
