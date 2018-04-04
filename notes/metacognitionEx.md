@@ -5,7 +5,8 @@
 Iterative programming in R using `purrr`
 
 ### Target Audience
-- Life scientists at all career levels, who program in R for data analysis
+- Life scientists at all career levels, who program in R for data analysis.
+- Positive attitude towards learning new concepts of iteration
 
 ### Required prior knowledge
 - Familiarity using R and its data types

@@ -9,3 +9,5 @@ frameworks to ELIXIR Training](https://www.dtls.nl/wp-content/uploads/2018/03/Fu
 - [Bloom's Taxonomy](http://slideplayer.com/slide/10856543/)
 - [Messick questions](https://www.d.umn.edu/~kgilbert/ened5560-1/Validity%20-%20Messick1995.pdf)
 - [knowledge skills and abilities KSAs](https://www.cdc.gov/hrmo/ksahowto.htm)
+- Ability is a combination of skills to do something, pull everything together
+- skill is something that can be developed (proficiency or dexterity), resulted of specialised training, a skill makes you competent
