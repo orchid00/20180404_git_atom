@@ -12,8 +12,15 @@ Iterative programming in R using `purrr`
 - Familiarity using R and its data types
 - In need of writing efficient iterations in their code
 - Recommended to be exposed to the `tidyverse`
+- Be familiar with writing functions
 
-### Goals (KSA what the learner can demonstrate)
+### Teaching goals (learning objectives)
+Topics covered in the teaching/training (what the trainers wants to focus on)
+- Strength and emphasis in R as a functional language
+- Show enough examples to evidence efficient use of functions
+
+### Learning Outcomes (KSA what the learner can demonstrate)
+Focused on the learner
 - To understand the power of a function
 - Be able to explain why loops in R have been replaced with functions
 - Work with a small reproducible example
