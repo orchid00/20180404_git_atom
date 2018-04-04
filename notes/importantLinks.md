@@ -5,4 +5,6 @@
 frameworks to ELIXIR Training](https://www.dtls.nl/wp-content/uploads/2018/03/Full-Programme-120318.pdf)
 - [Eventbrite](https://www.eventbrite.co.uk/e/applying-bioinformatics-and-data-science-competency-frameworks-to-elixir-training-registration-43087835877)
 - [FAIR survey and results ANDS](https://zenodo.org/record/1208136#.WsOyY9a-l5F)
-- [Allegra slides](goo.gl/9aevW6)
+- [Allegra slides - Designing effective instruction and interpretable assessment](goo.gl/9aevW6)
+- [Bloom's Taxonomy](http://slideplayer.com/slide/10856543/)
+- [Messick questions]()
