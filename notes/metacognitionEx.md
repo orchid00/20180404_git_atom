@@ -82,3 +82,9 @@ From less complex to complex
 4. Analysis - Predict - connect parts of a concept
 5. Synthesis - Create do something new (2001 - Evaluating)
 6. Evaluation - Assessment (2001 - Creating)
+
+## Framework
+
+- KSAs
+- Assessment
+- Learning outcomes
