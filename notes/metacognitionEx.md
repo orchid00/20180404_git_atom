@@ -12,7 +12,7 @@ Iterative programming in R using `purrr`
 - In need of writing efficient iterations in their code
 - Recommended to be exposed to the `tidyverse`
 
-### Goals
+### Goals (KSA what the learner can demonstrate)
 - To understand the power of a function
 - Be able to explain why loops in R have been replaced with functions
 - Work with a small reproducible example

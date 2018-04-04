@@ -7,4 +7,5 @@ frameworks to ELIXIR Training](https://www.dtls.nl/wp-content/uploads/2018/03/Fu
 - [FAIR survey and results ANDS](https://zenodo.org/record/1208136#.WsOyY9a-l5F)
 - [Allegra slides - Designing effective instruction and interpretable assessment](goo.gl/9aevW6)
 - [Bloom's Taxonomy](http://slideplayer.com/slide/10856543/)
-- [Messick questions]()
+- [Messick questions](https://www.d.umn.edu/~kgilbert/ened5560-1/Validity%20-%20Messick1995.pdf)
+- [knowledge skills and abilities KSAs](https://www.cdc.gov/hrmo/ksahowto.htm)
