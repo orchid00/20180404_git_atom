@@ -41,3 +41,13 @@ Focused on the learner
 Training is defined as a function of skills or behaviours to be
 learned («acquired») by practice in situ (Tractenberg, 2017)
 The user's plans for using the skills is important in training
+
+### Find opportunities to assess KSA's
+knowledge - of the `purrr` main functions
+Skills - identify which type of function to use
+Ability - Be able to translate a loop with a map_ function
+
+### Long Term memory
+- Encode information - see, hear, experience
+- Process with **practice** leads to associations with our long term memory
+- Store - After sufficient processing
