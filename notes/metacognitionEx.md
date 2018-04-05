@@ -13,7 +13,8 @@ Iterative programming in R using `purrr`
 - Familiarity using R and its data types
 - In need of writing efficient iterations in their code
 - Recommended to be exposed to the `tidyverse`
-- Be familiar with writing functions
+- Be familiar with writing simple functions
+- Know the concept and use of a loop in programming
 
 ### Teaching goals (learning objectives)
 Topics covered in the teaching/training (what the trainers wants to focus on)

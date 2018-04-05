@@ -12,3 +12,4 @@ frameworks to ELIXIR Training](https://www.dtls.nl/wp-content/uploads/2018/03/Fu
 - Ability is a combination of skills to do something, pull everything together
 - skill is something that can be developed (proficiency or dexterity), resulted of specialised training, a skill makes you competent
 - [Advisor for learning outcomes](https://web.cs.manchester.ac.uk/iloadvisor/)
+- [Workshop program Google doc](https://drive.google.com/drive/u/0/folders/1d5hkop_m5Y-TMZCkIuqiedCwwuR8QLuB)
