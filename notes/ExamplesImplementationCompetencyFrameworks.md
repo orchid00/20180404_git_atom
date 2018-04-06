@@ -71,6 +71,9 @@ Being open != not being secure
 - Iterative improvement is powerful
 - Experimental Design
 
+For the advanced week after aimed at bioinformatics
+We can include SQL
+
 
 
 
